@@ -18,7 +18,7 @@ const contacts = [
   {
     Comp: GitHub,
     alt: 'github icon',
-    link: 'https://github.com/ijjk',
+    link: 'https://github.com/Takalog',
   },
   {
     Comp: LinkedIn,
@@ -28,7 +28,7 @@ const contacts = [
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
+    link: 'ta.sakai1991@gmail.com',
   },
 ]
 
